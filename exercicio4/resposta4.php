@@ -1,6 +1,5 @@
 <?php
     $numero = $_POST["numero"];
-
     switch ($numero)
     {
         case 1:
